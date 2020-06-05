@@ -14,5 +14,5 @@ new_york_city.csv
 washinton.csv
 
 ### Credits
-udacity.com
+udacity: udacity.com
 
